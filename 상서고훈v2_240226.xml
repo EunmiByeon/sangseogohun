@@ -952,7 +952,7 @@
 					<Annot id="C01P08U02A" name="요전8장2구주석">
 						<Sign id="C01P08U02_GY" name="요전8장2구고이">
 							<Quot id="C01P08U02_GYQ1" name="요전8장2구고이1인용">○<Refer id="C01P08U02_GYQ1R2" name="요전8장2구고이1인용1출처">古文</Refer><Text id="C01P08U02_GYQ1T1" name="요전8장2구고이1인용1구절">定爲正</Text><SAnnot><Refer id="C01P08U02_GYQ1R2" name="요전8장2구고이1인용2출처"><Person id="P043" korname="왕응린" chiname="王應麟">王應麟</Person></Refer>云<Text id="C01P08U02_GYQ1T2" name="요전8장2구고이1인용2구절">開元誤作正</Text></SAnnot></Quot>
-							<Opin id="C01P08U02_GYO1" name="요전8장2구고이1견해" type="A">○鏞案 正四時 於義爲是<SAnnot><Refer id="C01P08U02_GYO1R1" name="요전8장2구고이1견해1출처"><Person id="P045" korname="조경오" chiname="晁景迃">晁景迃</Person></Refer>云<Text id="C01P08U02_GYO1T1" name="요전8장2구고이1견해1구절">古文 作正 天寶誤作定</Text><Refer id="C01P08U02_GYO1R2" name="요전8장2구고이1견해2출처"><Book id="B002" korname="설본" chiname="薛本">薛本</Refer><Text id="C01P08U02_GYO1T2" name="요전8장2구고이1견해2구절">又作正</Text></SAnnot></Opin>
+							<Opin id="C01P08U02_GYO1" name="요전8장2구고이1견해" type="A">○鏞案 正四時 於義爲是<SAnnot><Refer id="C01P08U02_GYO1R1" name="요전8장2구고이1견해1출처"><Person id="P045" korname="조경오" chiname="晁景迃">晁景迃</Person></Refer>云<Text id="C01P08U02_GYO1T1" name="요전8장2구고이1견해1구절">古文 作正 天寶誤作定</Text><Refer id="C01P08U02_GYO1R2" name="요전8장2구고이1견해2출처"><Book id="B002" korname="설본" chiname="薛本">薛本</Book></Refer><Text id="C01P08U02_GYO1T2" name="요전8장2구고이1견해2구절">又作正</Text></SAnnot></Opin>
 						</Sign>
 					</Annot>
 				</Unit>
