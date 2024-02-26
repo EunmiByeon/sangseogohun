@@ -1033,6 +1033,7 @@
 						<Quot id="C01P10_Q1" name="요전10장1인용"><Refer id="C01P10_Q1R" name="요전10장1인용출처"><Book id="B007" korname="사기" chiname="史記">史記</Book></Refer><Text id="C01P10_Q1T" name="요전10장1인용구절">方爲房</Text></Quot>
 						<Quot id="C01P10_Q2" name="요전10장2인용"><Refer id="C01P10_Q2R" name="요전10장2인용출처"><Person id="P002" chiname="주희" korname="朱熹">朱子</Person></Refer>云<Text id="C01P10_Q2T" name="요전10장2인용구절">滔天二字衍</Text></Quot>
 					</SAnnot>
+				</Annot>
 					
 				<Unit id="C01P10U01" name="요전10장1구" content="疇咨若予采">
 					<Annot id="C01P10U01A" name="요전10장1구주석">
