@@ -32,7 +32,7 @@
 					</Collation>
 				</Commentary>
 				
-				<Line id="C01P01L01" name="요전1장1구">曰若稽古
+				<Line id="C01P01L01" name="요전1장1구" content = "曰若稽古">曰若稽古
 					<Commentary id="C01P01L01C" name="요전1장1구주석">
 						<OGlossary id="C01P01L01_OG" name="요전1장1구_고훈">
 							<Quot id="C01P01L01_OGQ1" name="요전1장1구_고훈1인용">
@@ -66,7 +66,7 @@
 						</Marker>
 					</Commentary>
 				</Line>
-				<Line id="C01P01L02" name="요전1장2구">曰放勳
+				<Line id="C01P01L02" name="요전1장2구" content = "曰放勳">曰放勳
 					<Commentary id="C01P01L02C" name="요전1장2구주석">	
 						<OGlossary id="C01P01L02_OG" name="요전1장2구_고훈">
 							<Quot id="C01P01L02_OGQ1" name="요전1장2구_고훈1인용">
@@ -85,7 +85,7 @@
 						</OGlossary>
 					</Commentary>
 				</Line>			
-				<Line id="C01P01L03" name="요전1장3구">欽明文思
+				<Line id="C01P01L03" name="요전1장3구" content = "欽明文思">欽明文思
 					<Commentary id="C01P01L03C" name="요전1장3구주석">
 						<OGlossary id="C01P01L03_OG" name="요전1장3구_고훈">
 							<Quot id="C01P01L03_OGQ1" name="요전1장3구_고훈1인용">
@@ -98,7 +98,7 @@
 						</OGlossary>
 					</Commentary>
 				</Line>					
-				<Line id="C01P01L04" name="요전1장4구">安安
+				<Line id="C01P01L04" name="요전1장4구" content = "安安">安安
 					<Commentary id="C01P01L04C" name="요전1장4구주석">
 						<OGlossary id="C01P01L04_OG" name="요전1장4구_고훈">
 							<Quot id="C01P01L04_OGQ1" name="요전1장4구_고훈1인용">
@@ -113,7 +113,7 @@
 						</OGlossary>
 					</Commentary>
 				</Line>
-				<Line id="C01P01L05" name="요전1장5구">允恭克讓
+				<Line id="C01P01L05" name="요전1장5구" content = "允恭克讓">允恭克讓
 					<Commentary id="C01P01L05C" name="요전1장5구주석">
 						<OGlossary id="C01P01L05_OG" name="요전1장5구_고훈">
 							<Quot id="C01P01L05_OGQ1" name="요전1장5구_고훈1인용">
@@ -126,7 +126,7 @@
 						</OGlossary>
 					</Commentary>
 				</Line>
-				<Line id="C01P01L06" name="요전1장6구">光被四表
+				<Line id="C01P01L06" name="요전1장6구" content = "光被四表">光被四表
 					<Commentary id="C01P01L06C" name="요전1장6구주석">
 						<OGlossary id="C01P01L06_OG" name="요전1장6구_고훈">
 							<Quot id="C01P01L06_OGQ1" name="요전1장6구_고훈1인용">
@@ -135,7 +135,7 @@
 						</OGlossary>
 					</Commentary>
 				</Line>
-				<Line id="C01P01L07" name="요전1장7구">格于上下
+				<Line id="C01P01L07" name="요전1장7구" content = "格于上下">格于上下
 					<Commentary id="C01P01L07C" name="요전1장7구주석">
 						<OGlossary id="C01P01L07_OG" name="요전1장7구_고훈">
 							<Quot id="C01P01L07_OGQ1" name="요전1장7구_고훈1인용">
@@ -159,7 +159,7 @@
 					</Collation>
 				</Commentary>
 				
-				<Line id="C01P02L01" name="요전2장1구">克明俊德
+				<Line id="C01P02L01" name="요전2장1구" content = "克明俊德">克明俊德
 					<Commentary id="C01P02L01C" name="요전2장1구주석">
 						<OGlossary id="C01P02L01_OG" name="요전2장1구_고훈">
 							<Quot id="C01P02L01_OGQ1" name="요전2장1구_고훈1인용">
@@ -172,7 +172,7 @@
 						</OGlossary>
 					</Commentary>
 				</Line>
-				<Line id="C01P02L02" name="요전2장2구">以親九族
+				<Line id="C01P02L02" name="요전2장2구" content = "以親九族">以親九族
 					<Commentary id="C01P02L02C" name="요전2장2구주석">
 						<OGlossary id="C01P02L02_OG" name="요전2장2구_고훈">
 							<Quot id="C01P02L02_OGQ1" name="요전2장2구_고훈1인용">
@@ -199,7 +199,7 @@
 						</Marker>
 					</Commentary>
 				</Line>
-				<Line id="C01P02L03" name="요전2장3구">平章百姓
+				<Line id="C01P02L03" name="요전2장3구" content = "平章百姓">平章百姓
 					<Commentary id="C01P02L03C" name="요전2장3구주석">
 						<OGlossary id="C01P02L03_OG" name="요전2장3구_고훈">
 							<Quot id="C01P02L03_OGQ1" name="요전2장3구_고훈1인용">
@@ -225,7 +225,7 @@
 						</Marker>
 					</Commentary>
 				</Line>
-				<Line id="C01P02L04" name="요전2장4구">協和萬邦
+				<Line id="C01P02L04" name="요전2장4구" content = "協和萬邦">協和萬邦
 					<Commentary id="C01P02L04C" name="요전2장4구주석">
 						<OGlossary id="C01P02L04_OG" name="요전2장4구_고훈">
 							<Quot id="C01P02L04_OGQ1" name="요전2장4구_고훈1인용">
@@ -235,7 +235,7 @@
 						</OGlossary>
 					</Commentary>
 				</Line>
-				<Line id="C01P02L05" name="요전2장5구">黎民於變時雍
+				<Line id="C01P02L05" name="요전2장5구" content = "黎民於變時雍">黎民於變時雍
 					<Commentary id="C01P02L05C" name="요전2장5구주석">
 						<OGlossary id="C01P02L05_OG" name="요전2장5구_고훈">
 							<Quot id="C01P02L05_OGQ1" name="요전2장5구_고훈1인용">
@@ -261,7 +261,7 @@
 			
 			<Paragraph id="C01P03" name="요전3장">乃命羲和 欽若昊天 曆象日月星辰 敬援人時							
 
-				<Line id="C01P03L01" name="요전3장1구">乃命羲和
+				<Line id="C01P03L01" name="요전3장1구" content = "乃命羲和">乃命羲和
 					<Commentary id="C01P03L01C" name="요전3장1구주석">
 						<OGlossary id="C01P03L01_OG" name="요전3장1구_고훈">
 							<Quot id="C01P03L01_OGQ1" name="요전3장1구_고훈1인용">
@@ -299,7 +299,7 @@
 						</Marker>
 					</Commentary>
 				</Line>
-				<Line id="C01P03L02" name="요전3장2구">欽若昊天
+				<Line id="C01P03L02" name="요전3장2구" content = "欽若昊天">欽若昊天
 					<Commentary id="C01P03L02C" name="요전3장2구주석">
 						<OGlossary id="C01P03L02_OG" name="요전3장2구_고훈">
 							<Quot id="C01P03L02_OGQ1" name="요전3장2구_고훈1인용">
@@ -309,16 +309,16 @@
 								<Refer id="C01P03L02_OGQ3R" name="요전3장2구_고훈3인용출처">古尙書說</Refer>云
 								<Text id="C01P03L02_OGQ3T" name="요전3장2구_고훈3인용구절">尊而君之則稱皇天 元氣廣大則稱昊天 仁覆閔下則稱旻天 自上降監則稱上天 據遠視之蒼蒼然則稱蒼天</Text></Quot><SCommentary>見<Refer id="C01P03L03_OGQ4R" name="요전3장2구_고훈4인용출처"><Book id="" korname="오경이의" chiname="五經異義">五經異義</Book></Refer></SCommentary>○
 							<Quot id="C01P03L02_OGQ4" name="요전3장2구_고훈4인용">
-								<Refer id="C01P03L03_OGQ4R" name="요전3장2구_고훈4인용출처"><Person id="" korname="허신" chiname="許愼">許愼</Person></Refer>云
+								<Refer id="C01P03L02_OGQ4R" name="요전3장2구_고훈4인용출처"><Person id="" korname="허신" chiname="許愼">許愼</Person></Refer>云
 								<Text id="C01P03L02_OGQ4T" name="요전3장2구_고훈4인용구절">謹案<Part id="" korname="요전" chiname="堯典">堯典</Part>羲和以昊天總勑四時 故知昊天不獨春也<Book id="" korname="춘추좌씨전" chiname="春秋左氏傳">左傳</Book>夏四月 孔丘卒 稱曰旻天不弔 非秋也</Text></Quot>○
 							<Quot id="C01P03L02_OGQ5" name="요전3장2구_고훈5인용">
-								<Refer id="C01P03L04_OGQ5R" name="요전3장2구_고훈5인용출처"><Person id="" korname="정현" chiname="鄭玄">鄭</Person></Refer>駁云
-								<Text id="C01P03L02_OGQ5T" name="요전3장2구_고훈5인용구절">春氣博施 故以廣大言之 夏氣高明 故以遠大言之<SCommentary><Mention id="C01P03L02_OGQ5MT1" name="요전3장2구_고훈5인용1언급">評曰 夏氣不可云高明</Mention></SCommentary>秋氣或生或殺 故以閔下言之 冬氣閉藏而淸察 故以監下言之 皇天者 至尊之號也 六藝之中 諸稱天者 以情所求之耳 非必於其時稱之 浩浩旻天 求天之博施 蒼天蒼天 求天之高明 旻天不弔 求天之生殺 當得其宜 上天同雲 求天之所爲 當順其時也 此之求天 猶人之說事 各從其主耳 若察於是 則堯命羲和 欽若昊天 孔丘卒 稱旻天不弔 無可怪耳</Text></Quot><SCommentary><Refer id="C01P03L04_OGQ5R" name="요전3장2구_고훈5인용출처"><Book id="" korname="모시주소"  chiname="毛詩注疏"><Part id="PA009" korrname="왕풍서리" chiname="王風黍離">王風黍離</Part>疏</Book></Refer></SCommentary>
+								<Refer id="C01P03L02_OGQ5R" name="요전3장2구_고훈5인용출처"><Person id="" korname="정현" chiname="鄭玄">鄭</Person></Refer>駁云
+								<Text id="C01P03L02_OGQ5T" name="요전3장2구_고훈5인용구절">春氣博施 故以廣大言之 夏氣高明 故以遠大言之<SCommentary><Mention id="C01P03L02_OGQ5MT1" name="요전3장2구_고훈5인용1언급">評曰 夏氣不可云高明</Mention></SCommentary>秋氣或生或殺 故以閔下言之 冬氣閉藏而淸察 故以監下言之 皇天者 至尊之號也 六藝之中 諸稱天者 以情所求之耳 非必於其時稱之 浩浩旻天 求天之博施 蒼天蒼天 求天之高明 旻天不弔 求天之生殺 當得其宜 上天同雲 求天之所爲 當順其時也 此之求天 猶人之說事 各從其主耳 若察於是 則堯命羲和 欽若昊天 孔丘卒 稱旻天不弔 無可怪耳</Text></Quot><SCommentary><Refer id="C01P03L02_OGQ5R" name="요전3장2구_고훈5인용출처"><Book id="" korname="모시주소"  chiname="毛詩注疏"><Part id="PA009" korrname="왕풍서리" chiname="王風黍離">王風黍離</Part>疏</Book></Refer></SCommentary>
 							<Opin id="C01P03L02_OGO1" name="요전3장2구_고훈1견해">○鏞案<Remark id="C01P03L02_OGO1RM1" name="요전3장2구_고훈1견해1논평">漢儒說經支離 相訟中無義理如此</Remark>然然猶錄之者 哀眞經之亡也<Quot id="C01P03L02_OGO1Q1" name="요전3장2구_고훈1견해1인용"><Refer id="C01P03L02_OGO1Q1R" name="요전3장2구_고훈1견해1인용출처"><Book id="" korname="주례" chiname="周禮">周禮</Book><Part id="" korname="대종백" chiname="大宗伯">大宗伯</Part></Refer><Text id="C01P03L02_OGO1Q1T" name="요전3장2구_고훈1견해1인용구절">禋祀上帝曰昊天上帝</Text></Quot>昊天乃上帝之正號也 天地萬物 孰非帝有 而日月星辰之運 分至啓閉之度 尤是天縡之玄妙者 故命此羲和之官曰敬順上帝 恭修厥職也 何爲是紛紛也</Opin>
 						</OGlossary>
 					</Commentary>
 				</Line>
-				<Line id="C01P03L03" name="요전3장3구">曆象日月星辰
+				<Line id="C01P03L03" name="요전3장3구" content = "曆象日月星辰">曆象日月星辰
 					<Commentary id="C01P03L03C" name="요전3장3구주석">
 						<OGlossary id="C01P03L03_OG" name="요전3장3구_고훈">
 							<Quot id="C01P03L03_OGQ1" name="요전3장3구_고훈1인용">
@@ -347,7 +347,7 @@
 					</Collation>
 				</Commentary>
 			
-				<Line id="C01P04L01" name="요전4장1구">分命羲仲
+				<Line id="C01P04L01" name="요전4장1구" content = "分命羲仲">分命羲仲
 					<Commentary id="C01P04L01C" name="요전4장1구주석">
 						<OGlossary id="C01P04L01_OG" name="요전4장1구_고훈">
 							<Quot id="C01P04L01_OGQ1" name="요전4장1구_고훈1인용">
@@ -357,7 +357,7 @@
 						</OGlossary>
 					</Commentary>
 				</Line>			
-				<Line id="C01P04L02" name="요전4장2구">宅嵎夷
+				<Line id="C01P04L02" name="요전4장2구" content = "宅嵎夷">宅嵎夷
 					<Commentary id="C01P04L02C" name="요전4장2구주석">
 						<OGlossary id="C01P04L02_OG" name="요전4장2구_고훈">
 							<Quot id="C01P04L02_OGQ1" name="요전4장2구_고훈1인용">
@@ -415,7 +415,7 @@
 					</Commentary>
 				</Line>
 				
-				<Line id="C01P04L03" name="요전4장3구">曰暘谷
+				<Line id="C01P04L03" name="요전4장3구" content = "曰暘谷">曰暘谷
 					<Commentary id="C01P04L03C" name="요전4장3구주석">
 						<OGlossary id="C01P04L03_OG" name="요전4장3구_고훈">
 							<Quot id="C01P04L03_OGQ1" name="요전4장3구_고훈1인용">
@@ -434,7 +434,7 @@
 					</Commentary>
 				</Line>
 				
-				<Line id="C01P04L04" name="요전4장4구">寅賓出日
+				<Line id="C01P04L04" name="요전4장4구" content = "寅賓出日">寅賓出日
 					<Commentary id="C01P04L04C" name="요전4장4구주석">
 						<OGlossary id="C01P04L04_OG" name="요전4장4구_고훈">
 							<Quot id="C01P04L04_OGQ1" name="요전4장4구_고훈1인용">
@@ -458,7 +458,7 @@
 					</Commentary>
 				</Line>
 				
-				<Line id="C01P04L05" name="요전4장5구">平秩東作
+				<Line id="C01P04L05" name="요전4장5구" content = "平秩東作">平秩東作
 					<Commentary id="C01P04L05C" name="요전4장5구주석">
 						<OGlossary id="C01P04L05_OG" name="요전4장5구_고훈">
 							<Quot id="C01P04L05_OGQ1" name="요전4장5구_고훈1인용">
@@ -489,7 +489,7 @@
 					</Commentary>
 				</Line>
 				
-				<Line id="C01P04L06" name="요전4장6구">日中星鳥
+				<Line id="C01P04L06" name="요전4장6구" content = "日中星鳥">日中星鳥
 					<Commentary id="C01P04L06C" name="요전4장6구주석">
 						<OGlossary id="C01P04L06_OG" name="요전4장6구_고훈">
 							<Quot id="C01P04L06_OGQ1" name="요전4장6구_고훈1인용">
@@ -521,7 +521,7 @@
 					</Commentary>
 				</Line>
 				
-				<Line id="C01P04L07" name="요전4장7구">以殷 至孶尾
+				<Line id="C01P04L07" name="요전4장7구" content = "以殷 至孶尾">以殷 至孶尾
 					<Commentary id="C01P04L07C" name="요전4장7구주석">
 						<OGlossary id="C01P04L07_OG" name="요전4장7구_고훈">
 							<Quot id="C01P04L07_OGQ1" name="요전4장7구_고훈1인용">
@@ -1079,7 +1079,7 @@
 							<Refer id="C01P10_CQ1R" name="요전10장_교감1인용출처"><Book id="" korname="사기" chiname="史記">史記</Book></Refer>
 							<Text id="C01P10_CQ1T" name="요전10장_교감1인용구절">方爲房</Text></Quot>
 						<Quot id="C01P10_CQ2" name="요전10장_교감2인용">
-							<Refer id="C01P10_CQ2R" name="요전10장_교감2인용출처"><Person id="" chiname="주희" korname="朱熹">朱子</Person></Refer>云
+							<Refer id="C01P10_CQ2R" name="요전10장_교감2인용출처"><Person id="" korname="주희" chiname="朱熹" >朱子</Person></Refer>云
 							<Text id="C01P10_CQ2T" name="요전10장_교감2인용구절">滔天二字衍</Text></Quot>
 					</Collation>
 				</Commentary>
